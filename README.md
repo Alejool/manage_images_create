@@ -1,4 +1,4 @@
-# umanage_images_create
+# manage_images_create
 
 ## Descripción
 
