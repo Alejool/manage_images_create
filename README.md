@@ -25,4 +25,5 @@ Por definir
 
 
 ## Add
-Se acepta colaboraciones
+Se acepta colaboraciones -> proyecto a empezar...
+
