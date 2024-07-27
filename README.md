@@ -23,7 +23,7 @@ Este proyecto tiene como objetivo desarrollar una aplicación web completa que p
 ## Tecnologías
 Por definir
 
-<div style="background-color: yellow; padding: 10px; border-radius: 5px; margin-bottom: 20px;">
+-------------------------------------------------
 ## Creando Diseños
 
 - **Interfaz de Usuario (UI):** Diseñar la disposición y los elementos gráficos de la aplicación.
@@ -31,14 +31,11 @@ Por definir
 - **Prototipos:** Crear prototipos y maquetas para visualizar el diseño antes de la implementación.
 </div>
 
-<div style="background-color: yellow; padding: 10px; border-radius: 5px;">
 ## Planificando
 
 - **Fases del Proyecto:** Definir las etapas del proyecto desde la investigación y planificación hasta la implementación y prueba.
 - **Recursos Necesarios:** Identificar las herramientas, tecnologías y personal requerido.
 - **Cronograma:** Establecer un calendario para las diferentes etapas del desarrollo del proyecto.
-</div>
+----------------------------------------------
 
-## Add
 
-Se acepta colaboraciones -> proyecto a empezar...
