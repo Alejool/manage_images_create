@@ -36,6 +36,10 @@ Por definir
 - **Fases del Proyecto:** Definir las etapas del proyecto desde la investigación y planificación hasta la implementación y prueba.
 - **Recursos Necesarios:** Identificar las herramientas, tecnologías y personal requerido.
 - **Cronograma:** Establecer un calendario para las diferentes etapas del desarrollo del proyecto.
-----------------------------------------------
+
+  
+## Planificando
+- ** capacitandomé: explorando tecnologías y practicando en esas para planear y estableces estas tenologías
+---------------------------------------------
 
 
