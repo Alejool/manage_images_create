@@ -39,7 +39,8 @@ Por definir
 
   
 ## Planificando
-- ** capacitandomé: explorando tecnologías y practicando en esas para planear y estableces estas tenologías
+- ** capacitandomé: explorando tecnologías y practicando en esas para planear y establecer la mejor opción
+- 
 ---------------------------------------------
 
 
