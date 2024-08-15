@@ -39,7 +39,7 @@ Por definir
 
   
 ## Planificando
-- ** capacitandomé: explorando tecnologías y practicando en esas para planear y establecer la mejor opción
+- ** React - Astro.... Nest js 
 - 
 ---------------------------------------------
 
