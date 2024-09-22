@@ -23,24 +23,13 @@ Este proyecto tiene como objetivo desarrollar una aplicación web completa que p
 ## Tecnologías
 Por definir
 
--------------------------------------------------
-## Creando Diseños
-
-- **Interfaz de Usuario (UI):** Diseñar la disposición y los elementos gráficos de la aplicación.
-- **Experiencia del Usuario (UX):** Planificar cómo los usuarios interactuarán con la aplicación para asegurar una experiencia fluida y agradable.
-- **Prototipos:** Crear prototipos y maquetas para visualizar el diseño antes de la implementación.
-</div>
-
-## Planificando
-
-- **Fases del Proyecto:** Definir las etapas del proyecto desde la investigación y planificación hasta la implementación y prueba.
-- **Recursos Necesarios:** Identificar las herramientas, tecnologías y personal requerido.
-- **Cronograma:** Establecer un calendario para las diferentes etapas del desarrollo del proyecto.
-
+------------------------------
   
 ## Planificando
-- ** React - Astro.... Nest js 
+- ** React - Astro.... Nest js en deseo
 - 
 ---------------------------------------------
-
+## Novedades
+- No se ha avanzado por motivos de tiempo (22/09/2024) Se desea inciar el otro mes 😉 Esta atento!
+   
 
