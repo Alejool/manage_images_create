@@ -30,6 +30,6 @@ Por definir
 - 
 ---------------------------------------------
 ## Novedades
-- No se ha avanzado por motivos de tiempo (22/09/2024) Se desea inciar el otro mes 😉 Esta atento!
+- No se ha avanzado por motivos de tiempo, Se desea inciar el otro mes 😉 Esta atento!
    
 
